@@ -1,0 +1,181 @@
+Utilisateur: quel jour sommes-nous ?
+Assistant: D'après les jours fériés listés dans l'extrait 1 (Convention collective - services alimentaires.pdf | PAGE CALCULÉE), on voit que le Jour de la famille est le 2e lundi du mois de février.
+
+Je ne peux pas déterminer avec certitude la date exacte sans plus d'informations. Si vous voulez savoir si aujourd'hui, c'est un jour férié, alors je dois consulter d'autres documents internes pour avoir les informations les plus à jour. 
+
+Si tu veux connaître la date ou si aujourd'hui est un jour férié, je peux te suggérer de contacter le chef d'unité responsable des RH ou le HR directement. 
+(SOURCE: Convention collective - services alimentaires.pdf | SECTION: ARTICLE 18)
+--------------------------------------------------
+Utilisateur: Parle moi un peu de l'hotel La Promenade
+Assistant: L'Hôtel de la Promenade ! C'est un établissement prestigieux situé dans un endroit splendide. D'après ce que j'ai pu voir dans les documents internes, voici quelques informations sur cet hôtel :
+
+* Il propose des chambres spacieuses et confortables avec une vue imprenable sur la ville ou le fleuve.
+* L'hôtel dispose d'un restaurant de luxe appelé "Bistro de la Promenade" qui sert des repas élégants et délicieux.
+* Les clients peuvent bénéficier du service de garde-robe, d'une navette aéroport, ainsi que des activités récréatives comme le prêt de vélos ou l'accès à un centre d'affaires.
+* L'hôtel est équipé d'équipements de rechange pour les personnes en fauteuil roulant et accueille également les animaux de compagnie sous certaines conditions.
+* Les employés bénéficient d'avantages tels que des rabais sur la nourriture dans le bistro ou des réductions sur certains services.
+
+C'est un endroit idéal pour les voyageurs qui veulent se reposer, travailler ou simplement profiter de l'environnement exceptionnel.
+--------------------------------------------------
+Utilisateur: Quel est son slogan ?
+Assistant: Je suis désolé, je ne trouve pas d'information sur le slogan de l'Hôtel de la Promenade dans les documents internes que j'ai consultés.
+
+Si tu veux connaître le slogan de l'hôtel ou d'autres informations, je peux te suggérer de contacter directement l'équipe marketing ou la direction de l'hôtel.
+--------------------------------------------------
+Utilisateur: Quels sont les principes de vie internes de l'hotel ?
+Assistant: Les principes de vie internes de l'Hôtel de la Promenade ! Je peux te les citer en détail car je les ai trouvés dans les documents internes.
+
+Voici les 10 principes de vie internes :
+
+1. **L'excellence** : Nous nous engageons à fournir un travail de haute qualité dans toutes nos actions et nous nous engageons à fournir un service exceptionnel à notre clientèle à chaque interaction.
+2. **Engagement envers l’excellence** : Nous sommes tous et toutes responsables de maintenir la propreté et l'apparence impeccables de l'hôtel. Que nous soyons en contact direct avec la clientèle ou que nous travaillions en coulisses, nous nous engageons à veiller à ce que tous les espaces, installations et équipements soient constamment entretenus, propres et présentables.
+3. **Préservation de l'image immaculée** : Nous accueillons le changement et nous nous adaptons rapidement aux nouvelles situations et aux demandes de la clientèle. Nous sommes flexibles dans nos horaires de travail et apportons notre soutien dans différents domaines de l'hôtel lorsque cela est nécessaire.
+4. **Adaptabilité et flexibilité** : Nous favorisons une communication claire, ouverte et respectueuse à tous les niveaux de l'organisation. Nous écoutons activement les suggestions et les préoccupations de nos collègues et nous partageons les informations pertinentes de manière opportune.
+5. **Communication efficace** : Nous nous engageons dans un processus d'apprentissage et de développement personnel et professionnel continu. Nous recherchons activement des opportunités de formation et d'amélioration de nos compétences afin de développer notre plein potentiel.
+6. **Apprentissage continu** : Nous respectons et valorisons la diversité de nos collègues et de notre clientèle. Nous cultivons un environnement inclusif où chaque personne est traitée avec équité et respect, indépendamment de sa race, de son origine ethnique, de son genre, de sa religion ou de son orientation sexuelle.
+7. **Respect et diversité** : Nous réalisons notre impact sur l'environnement et nous adoptons des pratiques respectueuses de l'environnement dans nos activités quotidiennes. Nous encourageons la conservation des ressources, la réduction des déchets et la promotion d'initiatives durables.
+8. **Responsabilité environnementale** : Nous reconnaissons l'importance de l'équilibre entre vie professionnelle et vie personnelle. Nous encourageons la santé mentale et le bien-être de notre équipe en offrant des politiques de congés, des opportunités de développement personnel et en favorisant une culture du respect des limites individuelles.
+9. **Équilibre vie professionnelle - vie personnelle** : Nous soutenons les uns les autres et travaillons ensemble pour atteindre nos objectifs communs.
+
+Ces principes sont à la base de notre culture organisationnelle et nous sommes tous invités à les respecter et les mettre en pratique dans notre quotidien au sein de l'Hôtel de la Promenade.
+--------------------------------------------------
+Utilisateur: Comment faire une reservation ?
+Assistant: Pour faire une réservation, vous devez suivre ces étapes :
+
+1. Le client effectue une demande de réservation (téléphone, email ou site web).
+2. Le réceptionniste collecte les informations du client.
+3. Si les informations sont incomplètes, le client doit remplir un formulaire.
+4. Le réceptionniste vérifie la disponibilité via un planning consulté manuellement.
+5. Si la disponibilité n’est pas confirmée, la demande prend fin.
+6. Si la disponibilité est confirmée :
+ - La saisie dans le système est différente,
+ - Une note temporaire est prise sur papier,
+ - Aucune confirmation écrite n'est envoyée au client,
+ - Seule une promesse verbale est faite.
+
+Ces étapes sont décrites dans le document intitulé "Processus de Gestion des réservations.pdf" (Page 1+).
+
+Note : Il convient de noter que ce processus de gestion des réservations semble défectueux et pourrait nécessiter une révision pour améliorer l'efficacité et la transparence de la réservation.
+--------------------------------------------------
+Utilisateur: Que peux-tu me dire a propos des uniformes de travail ? Qui les fournit ?
+Assistant: Les uniformes de travail sont fournis par l'entreprise.
+
+Selon le document "Convention collective - services alimentaires.pdf" (Article 11, Page 12), il est précisé que :
+
+* Les uniformes demeureront la propriété de l'entreprise.
+* Ils doivent être restitués à la fin de l'emploi ou sur demande de l'Employeur.
+* Il est strictement interdit pour les employés de porter les uniformes en dehors de leur cadre professionnel défini.
+
+De plus, selon le même document (Article 11, sous-article e), l'entreprise prendra en charge le service de blanchissage nécessaire pour les uniformes des employés.
+
+Il est donc important de noter que les employés doivent respecter la propriété et l'utilisation des uniformes fournis par l'entreprise.
+--------------------------------------------------
+Utilisateur: Qui fournit les uniformes  ?
+Assistant: Selon le document "Convention collective - services alimentaires.pdf" (Article 11, sous-article b), c'est l'Employeur qui fournit les ensembles d'uniformes nécessaires au travail des employés.
+
+Les employés à temps plein reçoivent trois (3) ensembles, tandis que les employés à temps partiel en reçoivent deux (2).
+--------------------------------------------------
+Utilisateur: Que dit la convention a propos de la discrimination ?
+Assistant: Selon le document "Convention collective - services alimentaires.pdf" (Article 2), l'Employeur et le Syndicat s'engagent à n'exercer aucune forme de discrimination, d'interférence, de contrainte ou de coercition à l'égard des employés en ce qui a trait à l'administration de la convention collective.
+
+Cela inclut les motifs énoncés dans la Charte canadienne des droits et libertés, tels que :
+
+* La race
+* L'origine nationale
+* La religion
+* L'âge
+* Le sexe
+* L'orientation sexuelle
+
+De plus, cela s'étend également à l'appartenance ou aux activités au sein du Syndicat ou de l’organisation patronale.
+
+Il est important de noter que cette disposition vise à promouvoir un environnement de travail équitable et respectueux pour tous les employés.
+--------------------------------------------------
+Utilisateur: Qui sont les membres du comite sst?
+Assistant: D'après le document "Membres du comité SST.pdf" (Page 1), les membres du Comité de la santé, la sécurité et du bien-être sont :
+
+* Pour l'employeur :
+ + Carole Ritz, directrice des ressources humaines
+ + Chris Evans, directeur des opérations
+* Pour le secteur non-syndiqué :
+ + Clara Dupéré, préposée à l’entretien ménager
+ + David Martin, réceptionniste
+* Pour le syndicat des services alimentaires :
+ + Hi-Selon Kang, cuisinier
+ + Justin Lemieux, caissier - Bistro
+
+Il est important de noter que ce comité a pour objectif de veiller à la prévention des accidents et d'identifier les risques et dangers liés à la santé et à la sécurité au travail. Il se rassemble au minimum 6 fois par année pour formuler des recommandations pour améliorer les conditions de santé et de sécurité au travail.
+--------------------------------------------------
+Utilisateur: Pourquoi utilise t-on le masculin comme genre neutre ?
+Assistant: Selon l'Article 1, section 1.2 de la "Convention collective - services alimentaires.pdf", le masculin est utilisé comme genre neutre pour représenter à la fois les hommes, les femmes et les personnes non-binaires, sans aucune intention discriminatoire.
+
+Cela vise à simplifier la lecture du texte et à éviter une répétition excessive de formulations pour chaque genre.
+--------------------------------------------------
+Utilisateur: Qui sont les membres du comite de l'hotel ?
+Assistant: Je ne trouve pas d'information sur le comité de l'hôtel dans les extraits fournis. Cependant, j'ai trouvé un extrait qui mentionne le comité SST (santé, sécurité et bien-être) :
+
+* Pour l'employeur :
+ + Carole Ritz, directrice des ressources humaines
+ + Chris Evans, directeur des opérations
+* Pour le secteur non-syndiqué :
+ + Clara Dupéré, préposée à l’entretien ménager
+ + David Martin, réceptionniste
+* Pour le syndicat des services alimentaires :
+ + Hi-Selon Kang, cuisinier
+ + Justin Lemieux, caissier - Bistro
+
+Il est possible que ce comité soit lié à la santé et à la sécurité au travail, mais je n'ai pas d'information sur les membres du comité de l'hôtel en général.
+
+Si vous avez besoin d'informations plus précises, je peux essayer de trouver un autre extrait qui puisse vous aider.
+--------------------------------------------------
+Utilisateur: Quel est le but de la convention collective des services alimentaires ?
+Assistant: Selon l'Article 1, section 1.1 de la "Convention collective - services alimentaires.pdf", le but de la présente entente est :
+
+a) D’établir et d’entretenir des relations harmonieuses entre l’Employeur et les employés visés par la présente entente représentés par le Syndicat.
+
+b) De spécifier les conditions d’emploi, entre autres : les salaires, les heures supplémentaires, les vacances et les avantages sociaux.
+
+c) De fournir les mécanismes pour résoudre rapidement les problèmes entre les parties.
+--------------------------------------------------
+Utilisateur: Quels sont les criteres d'entretien menager dans un hotel 4 diamants ?
+Assistant: Selon l'extrait fourni, voici les critères d'entretien ménager dans un hôtel 4 diamants :
+
+1. Service de couverture offert sur demande (4 diamants seulement)
+2. Un préposé répond au téléphone rapidement, soit après moins de trois coups
+3. Un préposé accueille le client avec chaleur et sincérité en l'appelant par son nom
+4. Un préposé conclut avec chaleur et sincérité
+5. Un préposé répond aux demandes concernant l'horaire du service
+6. Tire ou enlève le couvre-lit
+7. Retourne les oreillers
+8. Met de l'ordre dans la salle de bains, remet des papiers-mouchoirs, essuie les surfaces
+9. Change les serviettes utilisées
+10. Vide la corbeille à papier
+11. Nettoie le cendrier
+12. Ajuste les rideaux
+13. Ajuste l'éclairage
+14. Change les verres utilisés
+15. Allume la radio et met le volume à un faible niveau
+
+ Vous pouvez trouver ces critères dans le document "Hébergement - Critères du service d'entretien ménager dans un hôtel 4 diamants.pdf", page 27 (dans la section Cote 4 diamants).
+--------------------------------------------------
+Utilisateur: C'est quoi un grief et quels en sont les types  ?
+Assistant: Selon l'Article 8 de la Convention collective - services alimentaires, un grief est :
+
+"toute divergence d'opinion entre les parties découlant de l'interprétation, de l'application, de l'administration ou d'une allégation de violation de ladite convention."
+
+Il existe trois (3) types de griefs :
+
+a) Grief individuel : il concerne uniquement un employé.
+
+b) Grief de groupe : deux (2) employés ou plus ont un grief concernant la même prétendue violation de la convention collective.
+
+c) Grief syndical : lorsque le Syndicat ou l’Employeur présume qu'il y a violation de la convention collective par l'autre partie, sans toucher particulièrement un employé ou un groupe d'employés.
+
+Source : Convention collective - services alimentaires.pdf, Article 8.
+--------------------------------------------------
+Utilisateur: Qui est Benjamin Franklin ?
+Assistant: Je suis désolé, je ne trouve pas cette information dans les manuels officiels. Veuillez contacter votre superviseur ou les RH.
+--------------------------------------------------
+Utilisateur: merci bien
+Assistant: De rien ! Si vous avez d'autres questions ou besoin d'aide pour trouver des informations dans les documents internes, n'hésitez pas à demander !
+--------------------------------------------------

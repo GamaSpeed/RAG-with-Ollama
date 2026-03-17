@@ -1,0 +1,148 @@
+Utilisateur: Quel est le but de la convention collective des services alimentaires ?
+Assistant:  Le but de la Convention collective des services alimentaires est d'établir et d'entretenir des relations harmonieuses entre l'Employeur et les employés visés par la présente entente représentés par le Syndicat. Cette convention a pour but également de spécifier les conditions d’emploi, entre autres : les salaires, les heures supplémentaires, les vacances et les avantages sociaux (Convention collective - services alimentaires.pdf | SECTION: ARTICLE 1).
+--------------------------------------------------
+Utilisateur: Pourquoi utilise t-on le masculin comme genre neutre ?
+Assistant:  Dans les deux documents fournis, on utilise le masculin comme genre neutre pour représenter à la fois les hommes, les femmes et les personnes non-binaires, sans aucune intention discriminatoire. Cela vise à simplifier la lecture du texte et à éviter une répétition excessive de formulations pour chaque genre (Convention collective - services alimentaires.pdf | SECTION: ARTICLE 1.1 Utilisation du masculin comme genre neutre ; politiques\_hotel\_de\_la\_promenade\_document.pdf | SECTION: Introduction 1.2 Utilisation du masculin comme genre neutre).
+--------------------------------------------------
+Utilisateur: Que dit la convention a propos de la discrimination ?
+Assistant:  Selon la Convention collective des services alimentaires, les employeurs et le syndicat s'engagent à n'exercer aucune forme de discrimination dans la gestion de l'entente (Source : Convention collective - services alimentaires.pdf | SECTION: ARTICLE 2).
+--------------------------------------------------
+Utilisateur: C'est quoi un grief et quels sont ses types ?
+Assistant:  Selon la Convention collective des services alimentaires, un "grief" désigne toute divergence d'opinion entre les parties découlant de l'interprétation, de l'application, de l'administration ou d'une allégation de violation de ladite convention. Il existe trois types de griefs :
+1. Grief individuel qui concerne uniquement un employé.
+2. Grief de groupe qui est concernant deux (2) employés ou plus ayant un grief concernant la même prétendue violation de la convention collective.
+3. Grief syndical lorsque le Syndicat ou l’Employeur présume qu'il y a violation de la convention collective par l'autre partie, sans toucher particulièrement un employé ou un groupe d'employés. (Source: Convention collective - services alimentaires.pdf | SECTION: ARTICLE 8)
+--------------------------------------------------
+Utilisateur: Quels sont les criteres d'entretien menager dans un hotel 4 diamants ?
+Assistant:  Les critères du service d'entretien ménager dans un hôtel 4 diamants sont:
+1. Service de couverture offert sur demande (4 diamants seulement).
+2. Un préposé répond au téléphone rapidement, soit après moins de trois coups.
+3. Un préposé accueille le client avec chaleur et sincérité en l'appelant par son nom.
+4. Un préposé conclut avec chaleur et sincérité.
+5. Un préposé répond aux demandes concernant l'horaire du service.
+6. Tire ou enlève le couvre-lit, retourne les oreillers.
+7. Met de l'ordre dans la salle de bains, remet des papiers et mouchoirs, essuie les surfaces.
+8. Change les serviettes utilisées.
+9. Vide la corbeille à papier.
+10. Nettoie le cendrier.
+11. Ajuste les rideaux.
+12. Ajuste l'éclairage.
+13. Change les verres utilisés.
+14. Allume la radio et met le volume à un faible niveau (Source: Hébergement - Critères du service d'entretien ménager dans un hôtel 4 diamants.pdf | SECTION: Page 1+)
+--------------------------------------------------
+Utilisateur: Qui sont les membres du comite de l'hotel ?
+Assistant:  Je suis désolé, je ne trouve pas cette information dans les manuels officiels. Veuillez contacter votre superviseur ou les RH pour plus d'informations sur le Comité de l'hôtel. (Source : aucun)
+--------------------------------------------------
+Utilisateur: Qui sont les membres du comite de Sante, securite ?
+Assistant:  Je suis désolé, je ne trouve pas cette information dans le contexte fourni. Il n'y a pas de mention d'un Comité de Santé et Sécurité dans les extraits fournis. Veuillez contacter votre superviseur ou les RH pour plus d'informations. (Source : aucun)
+--------------------------------------------------
+Utilisateur: Que peux-tu me dire a propos des uniformes de travail ?
+Assistant:  Dans le cadre de l'Hôtel de la Promenade, les employés doivent porter l'uniforme fourni par leur employeur pendant l'exercice de leurs fonctions. Les employés recevront gratuitement les ensembles d'uniformes nécessaires à leur travail (3 pour les temps pleins et 2 pour les temps partiels). Les uniformes sont la propriété de l'entreprise et devront être restitués à la fin de l'emploi ou sur demande de l’Employeur. Il est strictement interdit pour les employés de porter les uniformes en dehors de leur cadre professionnel défini (Extraite 2). Tout dommage causé aux uniformes par un usage inapproprié sera à la charge de l'employé (Extraite 1).
+
+Source : Convention collective - services alimentaires.pdf | Section: Article 11
+
+Je suis désolé si je n'ai pas répondu à toutes vos questions ou si vous avez besoin d'autres informations. Veuillez me contacter si cela est le cas.
+--------------------------------------------------
+Utilisateur: Qui les fournit ?
+Assistant:  Dans le contexte fourni, je n'ai pas pu trouver d'informations sur qui fournit les uniformes. Je suis désolé si je ne peux pas répondre à toutes vos questions. Veuillez contacter votre superviseur ou les RH pour plus d'informations. (Source : aucun)
+--------------------------------------------------
+Utilisateur: Quels sont les principes de vie internes de l'hotel ?
+Assistant:  Les principes de vie internes de l'hôtel sont les suivants:
+
+1. Engagement envers l’excellence
+2. Préservation de l'image immaculée
+3. Adaptabilité et flexibilité
+4. Communication efficace
+5. Soutien dans différents domaines de l'hôtel lorsque cela est nécessaire.
+6. Valeurs de diversité et d'inclusion
+7. Apprentissage continu
+
+Source : Principes de vie internes.pdf | SECTION: Introduction
+--------------------------------------------------
+Utilisateur: Comment faire une reservation ?
+Assistant:  Pour faire une réservation, suivez ces étapes :
+
+1. En contactant le réceptionniste par téléphone, email ou via le site web de l'hôtel.
+2. Le client donne les informations nécessaires à la réceptionniste (nom, adresse, numéro de téléphone, type de chambre, nombre de personnes, dates de séjour).
+3. Si les informations sont incomplètes, le client doit remplir un formulaire.
+4. Le réceptionniste vérifie la disponibilité via un planning consulté manuellement.
+5. Si la disponibilité n’est pas confirmée, la demande prend fin.
+6. Si la disponibilité est confirmée, la saisie dans le système est réalisée et une note temporaire est prise sur papier mais aucune confirmation écrite n'est envoyée au client, seule une promesse verbale est faite.
+
+(Source : Processus de Gestion des reservations.pdf | Page 1)
+--------------------------------------------------
+Utilisateur: Parle moi un peu de l'hotel La Promenade
+Assistant:  L'Hôtel de la Promenade est situé à Montréal et propose différents services tels que des chambres, une restauration, des événements privés, une navigation aéroport, des vélos à louer et une valet parking.
+
+Les règles concernant les pourboires et frais de service sont les suivantes :
+- Service standard : Le pourboire est à la discrétion du client.
+- Groupes (6+) : Des frais de service de 15 % sont automatiquement ajoutés à la facture avant taxes.
+- Cette mention est indiquée sur le menu et rappelée lors de la réservation.
+- Pour les privatisations partielles ou complètes du Bistro, des frais de service de 18 % et des fraits d'administration de 2 % s'appliquent.
+
+L'hôtel a également une politique concernant les animaux de compagnie et d'assistance :
+- Animaux d'assistance : admis sans frais (identification non exigée si clairement identifiable).
+- Animaux de compagnie : acceptés sur demande — frais de nettoyage 50$ par séjour (non remboursable) ou frais de 35$/nuit selon le forfait; dépôt remboursable de 150$ pour possibles dommages.
+- Limitations : poids recommandé ≤ 20 kg (44 lbs). Maximum 2 animaux par chambre.
+- Restrictions : interdits dans Bistro & Spa (sauf chiens d'assistance).
+- Règles : tenus en laisse dans les espaces publics; ne pas laisser seuls en chambre sauf en cage ou dispositions explicitement acceptées par la conciergerie.
+
+Le service aux chambres est une extension du Bistro de la Promenade, disponible aux mêmes heures que l'ouverture du restaurant. Les frais de livraison fixes sont de 5,00 $ par commande. La cuisine traite des noix, des fruits de mer et du blé, il est donc important pour les clients de déclarer leurs allergies avant la commande.
+
+Les chambres sont équipées d'ampoules à faible consommation et systèmes CVC écoénergétiques. Le petit-déjeuner est composé de produits locaux et de saison. L'hôtel promeut ses pratiques durables en utilisant des produits de nettoyage écologiques, en changeant le linge tous les 3 jours seulement sauf option éco-friendly et en favorisant l'utilisation de vélos pour la mobilité.
+
+L'Hôtel de la Promenade a également un DEA (défibrillateurs) situés dans la réception et à l'entrée du Centre de Congrès (2e étage). Les incidences médicales et vols doivent être notifiées immédiatement. Il y a des exercices d'évacuation tous les semestres pour la sécurité du personnel.
+
+Il y a plusieurs offres spéciales disponibles à la réservation via le site web, par téléphone ou directement à la réception.
+--------------------------------------------------
+Utilisateur: Dans quelle partie de la documentation se trouve cette derniere reponse ?
+Assistant:  La dernière réponse concerne les principes internes à l'hôtel et se trouve dans le document "Principes de vie internes.pdf". Plus précisément, elle est dans la section "Introduction" de ce document.
+--------------------------------------------------
+Utilisateur: Non c'est faux je viens de verifier
+Assistant:  Je suis désolé, je ne trouve pas cette information dans les manuels officiels. Veuillez contacter votre superviseur ou les RH pour plus d'informations.
+
+Source : Pas trouvé dans les documents fournis.
+--------------------------------------------------
+Utilisateur: C'est quoi le slogan de cet hotel ?
+Assistant:  Le slogan de l'hôtel n'est pas explicitement mentionné dans les documents fournis, mais il est possible de trouver le slogan en consultant la page d'accueil de l'hôtel sur leur site internet.
+
+Source : politiques_hotel_de_la_promenade_document.pdf | Section: Introduction
+--------------------------------------------------
+Utilisateur: cela se trouve dans la partie presentation de l'hotel du document mentionne
+Assistant:  Les informations suivantes peuvent être trouvées dans le document "politiques\_hotel\_de\_la\_promenade\_document.pdf" :
+
+1. L'hôtel se situe à Ottawa, Ontario, Canada (Source: Introduction)
+2. La version du document est 3.0 et a été mis à jour le 12 janvier 2026 (Source: Introduction)
+3. Le document est destiné uniquement aux employés de l'hôtel pour formation (Source: Introduction)
+4. La table des matières indique différentes sections, dont Opérations, Ressources Humaines, Sécurité, Evénements, etc. (Source: Introduction)
+5. Le Bistro du Hôtel de la Promenade a des frais de service de 15 % pour les groupes (6+), et 18 % pour des privatisations complètes ou partielles (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 6.6)
+6. Les appels téléphoniques en mode haut-parleur et l'écoute de vidéos sans écouteurs sont interdits dans la salle à manger pour le confort des autres convives (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 6.7)
+7. Le client peut aporter son propre bouteille de vin au restaurant, avec un frais de débouchonnage de 25,00 $ par bouteille (750ml) et une limite d'une bouteille par table (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 6.8)
+8. Le code vestimentaire est différent pour les employés de la réception, conciergerie, Bistro et entretien (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 11.4)
+9. Il y a une période probatoire standard de 3 mois pour les nouveaux employés (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 11.2)
+10. Les heures supplémentaires doivent être approuvées par un superviseur (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction | 11.3)
+11. Le document contient des informations sur les pratiques durables de l'hôtel, telles que la gestion responsable du linge, l'utilisation de produits de nettoyage écologiques et la promotion du recyclage (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction)
+12. Le document contient des informations sur les procédures opérationnelles, telles que le nettoyage des chambres et la maintenance (Source: SOURCE: politiques_hotel_de_la_promenade_document.pdf | SECTION: Introduction)
+13. Il y a un document consacré au processus de gestion des réservations, indiquant les étapes clés du processus (Source: Processus de Gestion des reservations.pdf)
+14. Le document contient des informations sur les principes de vie internes de l'hôtel, y compris un engagement à la diversité et une culture inclusif (Source: Principes de vie internes.pdf)
+--------------------------------------------------
+Utilisateur: C'est quoi la mission, les valeurs et le vision de l'hotel ?
+Assistant:  Je suis désolé, mais il n'y a pas de mention explictive de la mission, des valeurs ou de la vision de l'hôtel dans le contexte fourni. Cependant, quelques informations peuvent être déduites en combinant les extraits :
+
+1. La mission de l'hôtel peut impliquer la promotion de pratiques durables et le minimisation de l'empreinte carbone du séjour (Extrait 3).
+2. Les valeurs de l'hôtel peuvent être centrées sur la respect et la valorisation de la diversité de ses collègues et clientèle, ainsi que la création d'un environnement inclusif où chaque personne est traitée avec équité et respect (Extrait 6).
+3. La vision peut se traduire par le souhait d'offrir une expérience de qualité à ses clients en tant qu'hôtel de luxe, comme indiqué dans la politique de service aux chambres qui mentionne un petit-déjeuner composé de produits locaux et de saison (Extrait 2).
+
+Je recommande d'aller plus loin pour trouver des informations détaillées sur les missions, valeurs et vision de l'hôtel.
+--------------------------------------------------
+Utilisateur: D'ou tires-tu cette reponse ?
+Assistant:  Je suis un assistant qui utilise le contexte fourni pour répondre à vos questions.
+
+1. L'engagement de l'hôtel est de minimiser l'empreinte carbone du séjour et promouvoir des pratiques durables (Extraite 1).
+2. Inclusions et Standards Écologiques :
+   - Hébergement : Utilisation exclusive de produits de nettoyage écologiques et draps en fibres naturelles (Extraite 1).
+   - Gestion responsable du linge (changement des serviettes sur demande explicite seulement) (Extraite 1).
+   - Énergie : Chambres équipées d'éclairage économique, aucun changement de bulbe autorisé sans consentement de l'hôtel (Extraite 6).
+3. Les membres du comité SST incluent Carole Ritz, directrice des ressources humaines et Chris Evans, directeur des opérations (Extraite 4).
+4. Pour les employés qui ont travaillé la première journée complète de travail prévue à leur horaire le jour suivant un jour férié, ils sont éligibles au paiement du jour férié s'ils peuvent justifier raisonnablement leur absence (Extraite 5).
+5. Les tarifs prépayés et non remboursables ne permettent aucune modification possible (Extraite 6).
